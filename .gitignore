@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+data/raw_papers/
+data/faiss_index/
+.streamlit/
