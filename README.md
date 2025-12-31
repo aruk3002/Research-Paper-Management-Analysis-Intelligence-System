@@ -4,6 +4,10 @@ This project implements an **AI-assisted research paper management system** that
 
 The system is developed according to the **GA03 project specification** and focuses on improving **research paper understanding, discovery, and analysis**.
 
+APP LINK - [https://research-paper-management-analysis-intelligence-system-aruk.streamlit.app](https://research-paper-management-analysis-intelligence-system-aruk.streamlit.app)
+
+<img width="1860" height="879" alt="image" src="https://github.com/user-attachments/assets/e28300e0-163f-48e4-99cb-336b2e8a0a21" />
+
 ---
 
 ## 🎯 Project Objectives
@@ -221,3 +225,4 @@ This system supports evaluation scenarios such as:
 
 
 This version is **clean, balanced, and explains only what actually exists**.
+
